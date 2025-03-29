@@ -1,0 +1,87 @@
+﻿  BankProject_UsingOOP.cpp
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsInputValidate.h(100,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsInputValidate.h(104,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(152,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUpdateClient.h(44,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsTransferScreen.h(41,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsTransferScreen.h(46,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUpdateCurrencyScreen.h(25,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUpdateCurrencyScreen.h(58,19): warning C4101: 'NewRate': unreferenced local variable
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsCurrencyCalculatorScreen.h(15,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProject_UsingOOP.cpp')
+  
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\B2B\source\repos\BankProject_UsingOOP\BankProject_UsingOOP\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankProject_UsingOOP.vcxproj -> C:\Users\B2B\source\repos\BankProject_UsingOOP\x64\Debug\BankProject_UsingOOP.exe
